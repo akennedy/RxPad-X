@@ -20,15 +20,28 @@
 
 @implementation DetailViewController
 
-@synthesize toolbar, popoverController, detailItem, patientsNameLabel, patientsLocationLabel, patientsPhoneLabel, rootViewController;
+@synthesize toolbar, popoverController, detailItem, patientsNameLabel, patientsLocationLabel, patientsPhoneLabel, nameText, locationText, phoneText, rootViewController;
 
 
 #pragma mark -
 #pragma mark Object insertion
 
 - (IBAction)insertNewObject:(id)sender {
-	
-	[rootViewController insertNewObject:sender];	
+	[nameText resignFirstResponder];
+	[locationText resignFirstResponder];
+	[phoneText resignFirstResponder];
+	[rootViewController insertNewObject:sender];
+}
+
+- (IBAction)makeKeyboardGoAway {
+	[nameText resignFirstResponder];
+	[locationText resignFirstResponder];
+	[phoneText resignFirstResponder];
+}
+
+- (BOOL)textFieldShouldReturn: (UITextField *)textField {
+	[textField resignFirstResponder];
+	return YES;
 }
 
 
@@ -158,6 +171,9 @@
 	[patientsNameLabel release];
 	[patientsLocationLabel release];
 	[patientsPhoneLabel release];
+	[nameText release];
+	[locationText release];
+	[phoneText release];
     
 	[super dealloc];
 }	

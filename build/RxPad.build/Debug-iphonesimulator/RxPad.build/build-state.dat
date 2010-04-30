@@ -1,24 +1,24 @@
 TRxPad
 v7
 r0
-t294289561.424982
+t294297889.918015
 cCheck dependencies
-cProcessInfoPlistFile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist RxPad-Info.plist
-cCompileXIB /Users/andrew/Desktop/RxPad/MainWindow.xib
-cCompileXIB /Users/andrew/Desktop/RxPad/DetailView.xib
+cProcessInfoPlistFile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist RxPad-Info.plist
+cCompileXIB /Users/andrew/iPhone:iPad/RxPad/MainWindow.xib
+cCompileXIB /Users/andrew/iPhone:iPad/RxPad/DetailView.xib
 cCpResource build/Debug-iphonesimulator/RxPad.app/RxPad.sqlite RxPad.sqlite
 cCpResource build/Debug-iphonesimulator/RxPad.app/Patinfoback.png Patinfoback.png
-cProcessPCH /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch.gch RxPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cDataModelVersionCompile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld
-cDataModelCompile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel
-cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o /Users/andrew/Desktop/RxPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o /Users/andrew/Desktop/RxPad/Classes/RxPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o /Users/andrew/Desktop/RxPad/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o /Users/andrew/Desktop/RxPad/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o /Users/andrew/Desktop/RxPad/Patients.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad normal i386
-cGenerateDSYMFile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
-cTouch /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app
+cProcessPCH /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch.gch RxPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd /Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld
+cDataModelCompile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom /Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel
+cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o /Users/andrew/iPhone:iPad/RxPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o /Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o /Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o /Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o /Users/andrew/iPhone:iPad/RxPad/Patients.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad normal i386
+cGenerateDSYMFile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
+cTouch /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
 c000000004BB0E9C90000000000000110
@@ -340,8 +340,182 @@ t1272590289
 s2724
 i<CoreData/CoreData.h>
 
+N/Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.h
+c000000004BDA699A0000000000000547
+t1272605082
+s1351
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m
+c000000004BDA698A00000000000011B9
+t1272605066
+s4537
+i"DetailViewController.h"
+i"RootViewController.h"
+i"Patients.h"
+
+N/Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.h
+c000000004BDA697F000000000000030A
+t1272605055
+s778
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m
+c000000004BDA69730000000000002C89
+t1272605043
+s11401
+i"RootViewController.h"
+i"DetailViewController.h"
+i"Patients.h"
+
+N/Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.h
+c000000004BDA023C00000000000003BC
+t1272578620
+s956
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m
+c000000004BDA457A000000000000154B
+t1272595834
+s5451
+i"RxPadAppDelegate.h"
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/Users/andrew/iPhone:iPad/RxPad/DetailView.xib
+c000000004BDA6635000000000000A896
+t1272604213
+s43158
+
+N/Users/andrew/iPhone:iPad/RxPad/MainWindow.xib
+c000000004BD8F46B000000000000763F
+t1272509547
+s30271
+
+N/Users/andrew/iPhone:iPad/RxPad/Patients.h
+c000000004BDA3948000000000000016E
+t1272592712
+s366
+i<CoreData/CoreData.h>
+
+N/Users/andrew/iPhone:iPad/RxPad/Patients.m
+c000000004BDA395500000000000000F0
+t1272592725
+s240
+i"Patients.h"
+
+N/Users/andrew/iPhone:iPad/RxPad/Patinfoback.png
+c000000004BDA48060000000000000EC1
+t1272596486
+s3777
+
+N/Users/andrew/iPhone:iPad/RxPad/RxPad.sqlite
+c000000004BDA41D30000000000005000
+t1272594899
+s20480
+
+N/Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld
+c000000004BDA3AE200000000000000AA
+t1272593122
+s170
+
+N/Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel
+c000000004BDA3AE20000000000000088
+t1272593122
+s136
+
+N/Users/andrew/iPhone:iPad/RxPad/RxPad_Prefix.pch
+c000000004BD8F46B000000000000013C
+t1272509547
+s316
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app
+t1272605089
+s374
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM
+t1272605089
+s102
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/DetailView.nib
+t1272604223
+s3549
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist
+t1272593243
+s790
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/MainWindow.nib
+t1272593243
+s1959
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/Patinfoback.png
+t1272596638
+s3777
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/PkgInfo
+t1272593243
+s8
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
+t1272605089
+s43244
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom
+t1272593244
+s1397
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd
+t1272593244
+s170
+
+N/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.sqlite
+t1272594910
+s20480
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o
+t1272605089
+s59280
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o
+t1272599701
+s5124
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o
+t1272605089
+s62632
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPad.LinkFileList
+c000000004BDA54940000000000000259
+t1272599700
+s601
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o
+t1272605089
+s58916
+
+N/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o
+t1272599701
+s5928
+
+N/Users/andrew/iPhone:iPad/RxPad/main.m
+c000000004BD8F46B0000000000000166
+t1272509547
+s358
+i<UIKit/UIKit.h>
+
 N/var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch.gch
 t1272509552
+s13805456
+
+N/var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch.gch
+t1272599701
 s13805456
 
 NRxPad-Info.plist
@@ -351,7 +525,7 @@ s1238
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies294289560#294289560#0(0"0(0#1#0"4300739032#0"0#
+lSLF07#2@18"Check dependencies294297889#294297889#0(0"0(0#1#0"4300739032#0"0#
 
 CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Book.o /Users/andrew/Desktop/RxPad/../../Downloads/CoreDataBooks/Classes/Book.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -371,6 +545,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/andrew/Desktop/RxPad/Classes/DetailViewController.m294288816#294288816#0(0"0(0#0#58"/Users/andrew/Desktop/RxPad/Classes/DetailViewController.m4300739032#1736"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch -c /Users/andrew/Desktop/RxPad/Classes/DetailViewController.m -o /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o0#
+
+CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o /Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294297889.756937
+e294297889.863387
+r1
+xCompileC
+xbuild/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o
+x/Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m294297889#294297889#0(0"0(0#0#62"/Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m4300739032#1782"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch -c /Users/andrew/iPhone:iPad/RxPad/Classes/DetailViewController.m -o /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/DetailViewController.o0#
 
 CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patient-13901927C412D456.o /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/Patient.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -456,6 +643,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@46"Compile /Users/andrew/Desktop/RxPad/Patients.m294286044#294286044#0(0"0(0#0#38"/Users/andrew/Desktop/RxPad/Patients.m4300739032#1704"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch -c /Users/andrew/Desktop/RxPad/Patients.m -o /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o0#
 
+CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o /Users/andrew/iPhone:iPad/RxPad/Patients.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294292501.541454
+e294292501.606423
+r1
+xCompileC
+xbuild/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o
+x/Users/andrew/iPhone:iPad/RxPad/Patients.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/andrew/iPhone:iPad/RxPad/Patients.m294292501#294292501#0(0"0(0#0#42"/Users/andrew/iPhone:iPad/RxPad/Patients.m4300739032#1750"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch -c /Users/andrew/iPhone:iPad/RxPad/Patients.m -o /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/Patients.o0#
+
 CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o /Users/andrew/Desktop/RxPad/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s294287841.764107
 e294287841.952385
@@ -468,6 +668,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@64"Compile /Users/andrew/Desktop/RxPad/Classes/RootViewController.m294287841#294287841#0(0"0(0#0#56"/Users/andrew/Desktop/RxPad/Classes/RootViewController.m4300739032#1732"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch -c /Users/andrew/Desktop/RxPad/Classes/RootViewController.m -o /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o /Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294297889.627820
+e294297889.785211
+r1
+xCompileC
+xbuild/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o
+x/Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m294297889#294297889#0(0"0(0#0#60"/Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m4300739032#1778"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch -c /Users/andrew/iPhone:iPad/RxPad/Classes/RootViewController.m -o /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RootViewController.o0#
 
 CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o /Users/andrew/Desktop/RxPad/Classes/RxPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s294288655.952999
@@ -482,6 +695,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/andrew/Desktop/RxPad/Classes/RxPadAppDelegate.m294288655#294288656#0(0"0(0#0#54"/Users/andrew/Desktop/RxPad/Classes/RxPadAppDelegate.m4300739032#1728"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch -c /Users/andrew/Desktop/RxPad/Classes/RxPadAppDelegate.m -o /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o0#
 
+CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o /Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294297889.626841
+e294297889.756836
+r1
+xCompileC
+xbuild/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o
+x/Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m294297889#294297889#0(0"0(0#0#58"/Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m4300739032#1774"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch -c /Users/andrew/iPhone:iPad/RxPad/Classes/RxPadAppDelegate.m -o /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPadAppDelegate.o0#
+
 CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o /Users/andrew/Desktop/RxPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s294286044.127090
 e294286044.221523
@@ -494,6 +720,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@42"Compile /Users/andrew/Desktop/RxPad/main.m294286044#294286044#0(0"0(0#0#34"/Users/andrew/Desktop/RxPad/main.m4300739032#1696"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch -c /Users/andrew/Desktop/RxPad/main.m -o /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o0#
+
+CCompileC build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o /Users/andrew/iPhone:iPad/RxPad/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294292501.357539
+e294292501.410580
+r1
+xCompileC
+xbuild/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o
+x/Users/andrew/iPhone:iPad/RxPad/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/andrew/iPhone:iPad/RxPad/main.m294292501#294292501#0(0"0(0#0#38"/Users/andrew/iPhone:iPad/RxPad/main.m4300739032#1742"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -include /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch -c /Users/andrew/iPhone:iPad/RxPad/main.m -o /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/main.o0#
 
 CCompileXIB /Users/andrew/Desktop/RxPad/DetailView.xib
 s294289560.913226
@@ -510,6 +749,17 @@ r1
 xCompileXIB
 x/Users/andrew/Desktop/RxPad/MainWindow.xib
 lSLF07#2@25"CompileXIB MainWindow.xib294286043#294286044#0(0"0(0#0#42"/Users/andrew/Desktop/RxPad/MainWindow.xib4300739032#445"    cd /Users/andrew/Desktop/RxPad    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/MainWindow.nib /Users/andrew/Desktop/RxPad/MainWindow.xib0#
+
+CCompileXIB /Users/andrew/iPhone:iPad/RxPad/DetailView.xib
+s294297022.912523
+e294297023.478787
+r1
+xCompileXIB
+x/Users/andrew/iPhone:iPad/RxPad/DetailView.xib
+lSLF07#2@25"CompileXIB DetailView.xib294297022#294297023#0(0"0(0#0#46"/Users/andrew/iPhone:iPad/RxPad/DetailView.xib4300739032#459"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/DetailView.nib /Users/andrew/iPhone:iPad/RxPad/DetailView.xib0#
+
+CCompileXIB /Users/andrew/iPhone:iPad/RxPad/MainWindow.xib
+r0
 
 CCpResource build/Debug-iphonesimulator/RxPad.app/Patinfoback.png Patinfoback.png
 s294289438.127866
@@ -547,6 +797,9 @@ x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom
 x/Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel
 lSLF07#2@72"Compile /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel294286044#294286044#0(0"0(0#0#64"/Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel4300739032#364"    cd /Users/andrew/Desktop/RxPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom0#
 
+CDataModelCompile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.mom /Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld/RxPad.xcdatamodel
+r0
+
 CDataModelVersionCompile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld
 s294286044.083257
 e294286044.152464
@@ -556,6 +809,9 @@ x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd
 x/Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld
 lSLF07#2@91"DataModelVersionCompile build/Debug-iphonesimulator/RxPad.app/RxPad.momd RxPad.xcdatamodeld294286044#294286044#0(0"0(0#0#46"/Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld4300739032#347"    cd /Users/andrew/Desktop/RxPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.5 /Users/andrew/Desktop/RxPad/RxPad.xcdatamodeld /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd0#
 
+CDataModelVersionCompile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad.momd /Users/andrew/iPhone:iPad/RxPad/RxPad.xcdatamodeld
+r0
+
 CGenerateDSYMFile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
 s294288816.331273
 e294288816.352672
@@ -564,6 +820,15 @@ xGenerateDSYMFile
 x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM
 x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
 lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/RxPad.app.dSYM build/Debug-iphonesimulator/RxPad.app/RxPad294288816#294288816#0(0"0(0#0#71"/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad4300739032#344"    cd /Users/andrew/Desktop/RxPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad -o /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM0#
+
+CGenerateDSYMFile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
+s294297889.888109
+e294297889.913790
+r1
+xGenerateDSYMFile
+x/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM
+x/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/RxPad.app.dSYM build/Debug-iphonesimulator/RxPad.app/RxPad294297889#294297889#0(0"0(0#0#75"/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad4300739032#358"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad -o /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app.dSYM0#
 
 CLd /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad normal i386
 s294288816.307232
@@ -575,6 +840,16 @@ xnormal
 xi386
 lSLF07#2@76"Link /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad294288816#294288816#0(0"0(0#0#0"4300739032#817"    cd /Users/andrew/Desktop/RxPad    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -filelist /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPad.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad0#
 
+CLd /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad normal i386
+s294297889.863492
+e294297889.887781
+r1
+xLd
+x/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad
+xnormal
+xi386
+lSLF07#2@80"Link /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad294297889#294297889#0(0"0(0#0#0"4300739032#839"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -filelist /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/Objects-normal/i386/RxPad.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/RxPad0#
+
 CProcessInfoPlistFile /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist RxPad-Info.plist
 s294286043.431372
 e294286043.448456
@@ -583,6 +858,9 @@ xProcessInfoPlistFile
 x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist
 xRxPad-Info.plist
 lSLF07#2@24"Process RxPad-Info.plist294286043#294286043#0(0"0(0#0#44"/Users/andrew/Desktop/RxPad/RxPad-Info.plist4300739032#440"    cd /Users/andrew/Desktop/RxPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility RxPad-Info.plist -genpkginfo /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app/Info.plist RxPad-Info.plist
+r0
 
 CProcessPCH /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch.gch RxPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
 s294202351.922430
@@ -597,6 +875,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile RxPad_Prefix.pch294202351#294202352#0(0"0(0#0#44"/Users/andrew/Desktop/RxPad/RxPad_Prefix.pch4300739032#1601"    cd /Users/andrew/Desktop/RxPad    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator -I/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/Desktop/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -c /Users/andrew/Desktop/RxPad/RxPad_Prefix.pch -o /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-ehcupurrmqvcujbnunxcnokaxdlt/RxPad_Prefix.pch.gch0#
 
+CProcessPCH /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch.gch RxPad_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294292500.585366
+e294292501.357000
+r1
+xProcessPCH
+x/var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch.gch
+xRxPad_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile RxPad_Prefix.pch294292500#294292501#0(0"0(0#0#48"/Users/andrew/iPhone:iPad/RxPad/RxPad_Prefix.pch8670044405528617984#1643"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-generated-files.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-own-target-headers.hmap -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-all-target-headers.hmap -iquote /Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/RxPad-project-headers.hmap -F/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator -I/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/include -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources/i386 -I/Users/andrew/iPhone:iPad/RxPad/build/RxPad.build/Debug-iphonesimulator/RxPad.build/DerivedSources -c /Users/andrew/iPhone:iPad/RxPad/RxPad_Prefix.pch -o /var/folders/uf/ufFNV1WvGaiRCgX6A9RwT++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RxPad_Prefix-foqrsmgytddxjegezxalllikxusw/RxPad_Prefix.pch.gch0#
+
 CTouch /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app
 s294289561.421830
 e294289561.424749
@@ -604,4 +895,12 @@ r1
 xTouch
 x/Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app
 lSLF07#2@71"Touch /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app294289561#294289561#0(0"0(0#0#0"4300739032#254"    cd /Users/andrew/Desktop/RxPad    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrew/Desktop/RxPad/build/Debug-iphonesimulator/RxPad.app0#
+
+CTouch /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app
+s294297889.913904
+e294297889.917966
+r1
+xTouch
+x/Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app
+lSLF07#2@75"Touch /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app294297889#294297889#0(0"0(0#0#0"4300739032#264"    cd "/Users/andrew/iPhone:iPad/RxPad"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/andrew/iPhone:iPad/RxPad/build/Debug-iphonesimulator/RxPad.app0#
 

@@ -98,7 +98,9 @@
     Patients *newManagedObject = [NSEntityDescription insertNewObjectForEntityForName:[entity name] inManagedObjectContext:context];
     
     // If appropriate, configure the new managed object.
-      [newManagedObject setValue:@"Tom Wilson" forKey:@"name"];
+	newManagedObject.name = detailViewController.nameText.text;
+	newManagedObject.location = detailViewController.locationText.text;
+	newManagedObject.phone = detailViewController.phoneText.text;
     
     // Save the context.
     NSError *error = nil;
